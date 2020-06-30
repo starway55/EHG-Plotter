@@ -1,0 +1,67 @@
+.image-border {
+
+    width: 256px;
+    height: 128px;
+    border-width: 2px;
+    border-style: dotted;
+    border-color: rgba(0, 0, 0, .2);
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.image-no-border {
+
+    width: 256px;
+    height: 128px;
+    border-width: 0;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h1 {
+
+    font-size: 40px;
+    font-weight: bold;
+    margin-top: 20px;
+    line-height: 150%;
+}
+
+h2 {
+
+    margin-top: 40px;
+    font-size: 19px;
+    line-height: 150%;
+}
+
+.image-row {
+
+    margin-top: 40px;
+}
+
+.button-section {
+
+    margin-bottom: 16px;
+    margin-top: 20px;
+}
+
+.main-container {
+
+    text-align: center;
+}
+
+.instructionText {
+
+    line-height: 150%;
+}
+
+.button-row {
+
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.button-inline {
+
+    margin-left: 15px;
+    margin-right: 15px;
+}
