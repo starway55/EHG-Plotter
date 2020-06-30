@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import { generateColorMatrix } from '../services/imageService';
-import Navbar from './nav';
+import Navbar from './Nav';
 import Image from './Image';
 import './DrawingBoard.css';
 

@@ -1,5 +1,5 @@
 import React from 'react';
-import DrawingBoard from './components/drawingBoard';
+import DrawingBoard from './components/DrawingBoard';
 
 function App() {
   return (
